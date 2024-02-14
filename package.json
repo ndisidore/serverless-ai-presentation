@@ -1,0 +1,14 @@
+{
+  "name": "serverless-ai-presentation",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "slides": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "reveal.js": "^5.0.4",
+    "vite": "^5.1.1"
+  }
+}
